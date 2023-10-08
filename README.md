@@ -1,10 +1,3 @@
-# How to Create a Free Windows 10 RDP using GitHub | Getscreen Method | 30 min timelimit bypassed
-
-Hey there, tech enthusiasts! Welcome to this step-by-step guide on setting up your very own free Windows 10 RDP using the powerful combo of GitHub and the Getscreen method. 🚀
-
-## Introduction
-
-Let's kick things off by breaking down the process into simple, digestible chunks. No worries if you're new to this – we'll walk you through it. If you haven't got a GitHub account yet, don't sweat it! Check out our quick [video tutorial on creating a GitHub account]
 ## Getscreen Account Setup
 
 Alright, let's get that [Getscreen](https://getscreen.me/en/registration) account rolling. Creating an account there is a breeze, and I'll show you how – it'll take literally 1 second! Just copy your Getscreen email to a textpad – we promise it's that easy. ⚡
